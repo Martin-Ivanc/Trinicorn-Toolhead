@@ -9,15 +9,6 @@ Trinicorn is a high-performance, open-source Selective Laser Melting (SLM) toolh
 
 ---
 
-## License
-
-This project is fully open-source and built for the community. 
-
-* **Hardware & CAD Files:** Licensed under **GNU GPLv3**. You are free to view, modify, and manufacture this toolhead. If you modify the design and distribute it, your modifications must also be released as open-source under the same GPLv3 license.
-* **Firmware & Software:** Licensed under **GNU GPLv3**.
-
----
-
 ## Official & Certified Vendors
 
 If you want to support the development of Trinicorn, please purchase kits and components only from our official partners. These vendors actively support the project, ensure hardware quality control, and contribute back to the development of new prototypes.
@@ -27,10 +18,3 @@ If you want to support the development of Trinicorn, please purchase kits and co
 
 *Note: If you are a vendor interested in becoming an official partner and being listed here, please contact the project maintainer.*
 
----
-
-## Project Structure
-* `/CAD` — STEP and source files for Fusion 360 / SolidWorks.
-* `/STLs` — Production-ready 3D printable files.
-* `/Firmware` — Klipper configuration files, pinouts, and macros.
-* `/Docs` — Assembly instructions and Bill of Materials (BOM).
