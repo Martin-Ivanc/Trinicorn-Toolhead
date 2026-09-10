@@ -25,7 +25,7 @@ Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mec
 | 6   | M3 x 35 BHCS                                  | Delta 3628 Fans  |
 | 4   | M3 x 6 FHCS                                   | Tricorn Hotend                   |
 | 4   | M3 x 8 FHCS                                   | MGN_12 Block                   |
-| 2   | M3 x 6 or M3 x 8 LOW Profile                  | Beacon (Included with Beacon)                    |
+| 2   | M3 x 6 or M3 x 8 LOW Profile                  | Beacon mounting (Included with Beacon)                    |
 | 2   | Delta 3628 Fan                                | [Part Cooling](https://www.delta-fan.com/FFB03612EHNYCL.html)  |
 | 1   | CNC Sherpa V3 Extruder                        | [COM optimized with a Moons stepper ](https://www.fysetc.com/products/cnc-all-metal-sherpa-v3-extruder-light-weight-kit-36-moons)                 |
 | 1   | Beacon Rev.H                                  | Cartographer V4 will work but the toolhead wont be COM perfect anymore                  |
