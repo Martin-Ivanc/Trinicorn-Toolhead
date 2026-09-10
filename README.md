@@ -2,6 +2,8 @@
 
 Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mechanical engineering and optimized thermals for high-flow printing.
 
+<img width="885" height="885" alt="Tricorn_Hotend_Render" src="https://github.com/user-attachments/assets/851f6613-6f4e-40dd-a7c2-7d8eecc09085" />
+
 ## Key Features
 * **SLM Optimized Design:** Hotend cooled using conduction
 * **Stiff and Fast:** Simulated and Designed with perfect Centert Of Mass
