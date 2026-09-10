@@ -36,7 +36,7 @@ Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mec
 | 1   | SLM Trinicorn Ducts                           | [STL](<STLs/Trinicorn Ducts.stl>)             |
 | 2   | CNC Belt clips                                | Meassage me on Dicsord if you can't make your own                  |
 | 1   | Tricorn Hotend Long                           | By:[Okano](https://github.com/Okanoa) - [Git](https://github.com/tricornhotend/tricornhotend.com)                  |
-| 50mm| PTFE or Peek tube if you are feeling fancy    | Peek tubing should help with heat isolation from the SLM body              |
+| 50mm| 4mm PEEK or PTFE     | PEEK tubing should help with heat isolation from the SLM body              |
 
 
 ---
