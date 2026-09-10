@@ -16,6 +16,7 @@ Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mec
 > 
 > This project lives in a user project in the monolith discord server.
 
+---
 
 ## Bill of Materials (BOM)
 
@@ -38,6 +39,10 @@ Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mec
 | 1   | Tricorn Hotend Long                           | By:[Okano](https://github.com/Okanoa) - [Git](https://github.com/tricornhotend/tricornhotend.com)                  |
 | 50mm| 4mm PEEK or PTFE     | PEEK tubing should help with heat isolation from the SLM body              |
 
+---
+
+> [!NOTE] 
+> Cutter addon coming soon
 
 ---
 ## Vendors
