@@ -1,6 +1,6 @@
 # Trinicorn SLM Toolhead
 
-Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mechanical engineering, optimized thermals for high-flow printing.
+Trinicorn is a high-performance, open-source SLM toolhead. It combines rigid mechanical engineering and optimized thermals for high-flow printing.
 
 ## Key Features
 * **SLM Optimized Design:** Hotend cooled using conduction
